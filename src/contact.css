@@ -4,6 +4,7 @@ form{
     height: 460px;
     margin: auto;
     margin-top: 40px;
+    background-image: url(Nanda.jpg) ;
 }
 h1{
     text-align: center;
@@ -28,4 +29,5 @@ button{
     background-color: blue;
     color: aliceblue;
     font-size: 20px;
+    
 }

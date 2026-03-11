@@ -72,7 +72,8 @@ ul, ol{
 }
 
 .details h3{
-  font-size:32px;
+  font-size:18px;
+  text-align: left;
 }
 
 .details h4{
