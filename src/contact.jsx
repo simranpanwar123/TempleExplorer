@@ -18,15 +18,13 @@ function Contact(){
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit =  (e) => {
     e.preventDefault()
      console.log(inputs);
-    alert("form submitted")
   }
+ 
   return(
     <>
-    
-
     <form  onSubmit={handleSubmit}>
       <h1>Contact Me</h1>
 
