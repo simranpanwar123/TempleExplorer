@@ -24,7 +24,7 @@ function Contact(){
   }
  
   return(
-    <>
+    <div className="forms">
     <form  onSubmit={handleSubmit}>
       <h1>Contact Me</h1>
 
@@ -57,7 +57,7 @@ function Contact(){
     <button>Submit</button>
 
     </form>
-    </>
+    </div>
   )
 }
 

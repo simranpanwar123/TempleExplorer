@@ -68,11 +68,11 @@ ul, ol{
 @media (max-width:600px){
 
 .details{
-  padding:20px;
+  padding:18px;
 }
 
 .details h3{
-  font-size:18px;
+  font-size:20px;
   text-align: left;
 }
 

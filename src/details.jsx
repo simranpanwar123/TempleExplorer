@@ -4,7 +4,7 @@ function Details(){
   return(
     <>
     <div className="details">
-      <h3>Some Details of Kartik Swami Temple – Uttarakhand </h3>
+      <h3> Kartik Swami Temple – Uttarakhand </h3>
 
 
       <h4><a href="https://www.google.com/maps/@30.385805,79.0987185,17.01z?entry=ttu&g_ep=EgoyMDI2MDMwNS4wIKXMDSoASAFQAw%3D%3D">📍 Location</a></h4>
@@ -48,7 +48,7 @@ function Details(){
       <p>The trek usually takes around 1.5 to 2 hours and is considered moderate and suitable for most travelers.</p>
 
 
-      <h4><a href="">🏔 Himalayan Views</a></h4>
+      <h4>🏔 Himalayan Views</h4>
       <div className="images">
 
         <div className="card">
